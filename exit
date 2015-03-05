@@ -1,0 +1,48 @@
+[33mcommit 50e72ee8544b8dfd3a74d7fd0203d8e4ec73739b[m
+Author: gamario <mgalli@aritmos.it>
+Date:   Sat Feb 28 19:50:06 2015 +0100
+
+    index.html update
+
+[33mcommit aa3b3602ec5846c83f4b879bf337ed7f5d781c4d[m
+Merge: 5429217 3e34ddd
+Author: gamario <mgalli@aritmos.it>
+Date:   Sat Feb 28 18:34:29 2015 +0100
+
+    Merge branch 'master' of https://github.com/gamario/test_app
+
+[33mcommit 542921736e584ab30ed038ff4f86e61760e9ab40[m
+Author: gamario <mgalli@aritmos.it>
+Date:   Sat Feb 28 18:28:08 2015 +0100
+
+    config.xml added
+
+[33mcommit 614ec6f8ae559436af8bfae618546d2108a5d4bd[m
+Author: gamario <mgalli@aritmos.it>
+Date:   Sat Feb 28 18:10:54 2015 +0100
+
+    aggiornatogit add .
+
+[33mcommit 3e34ddde9ad918e483df4a3b7112b8a7df1153e9[m
+Author: gamario <mgalli@aritmos.it>
+Date:   Sat Feb 28 17:59:57 2015 +0100
+
+    Delete index
+
+[33mcommit 8f94b8d37cce0fdcab6a2eb518eecb4cd5b3d6ab[m
+Author: Mario Galli <mgalli@aritmos.it>
+Date:   Fri Feb 27 23:36:53 2015 +0100
+
+    first commit
+
+[33mcommit 06698c48e02a3af6295154596db972565ac40d13[m
+Author: gamario <mgalli@aritmos.it>
+Date:   Fri Feb 27 23:51:09 2015 +0100
+
+    Create index
+
+[33mcommit fb1b1ef494679e7fae3c5fbba0d3f3e2c5e38f38[m
+Author: gamario <mgalli@aritmos.it>
+Date:   Fri Feb 27 23:11:08 2015 +0100
+
+    Initial commit
